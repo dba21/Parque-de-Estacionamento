@@ -271,7 +271,7 @@ public class Zonas
                     {
                         estacionamentos--;
                     }*/
-
+                    
 
             }
             else
@@ -426,9 +426,9 @@ public class Zonas
                     {
                         estacionar(zona, matricula, nif, valorInserido, tempoDisp);
                           lucroTotalAdmin += valorInserido;
-                          estaciOcupado++;
-                    
-                     }
+                    //estaciOcupado++;
+
+                }
                     else
                     {
 
@@ -457,8 +457,12 @@ public class Zonas
                         zona.estacionamentos[lugarOcupado] = t; // Se lugar livre, emite o ticket e ocupa um lugar
                         break;
                     }
-     
-                }
+                /*if (lugarOcupado => tempoDisp)
+                {
+
+                }*/
+
+            }
                 
                 Console.WriteLine("Ticket: " + t.numTicket);
                 Console.WriteLine("Zona: " + t.zona.numZona);
@@ -468,8 +472,12 @@ public class Zonas
                 Console.WriteLine("Início: " + t.horaInicio);
                 Console.WriteLine("Fim: " + t.horaFim);
 
-                //Vai emitir o ticket e regressar ao Menu Inicial, sem apagar o ticket anterior
-                Menus.MenuGeral();
+
+
+            
+
+            //Vai emitir o ticket e regressar ao Menu Inicial, sem apagar o ticket anterior
+            Menus.MenuGeral();
             }
         }
             
