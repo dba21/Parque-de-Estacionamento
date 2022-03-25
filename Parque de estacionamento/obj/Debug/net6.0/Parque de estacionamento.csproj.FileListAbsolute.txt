@@ -73,3 +73,18 @@ C:\Users\dinar\OneDrive\Ambiente de Trabalho\Joao_Alberto1_Num_2139621__Dinarte_
 C:\Users\dinar\OneDrive\Ambiente de Trabalho\Joao_Alberto1_Num_2139621__Dinarte_Azevedo2_Num_2139921__Hilario_Garces_Num_2019399\Parque de estacionamento\obj\Debug\net6.0\ref\Parque de estacionamento.dll
 C:\Users\dinar\OneDrive\Ambiente de Trabalho\Joao_Alberto1_Num_2139621__Dinarte_Azevedo2_Num_2139921__Hilario_Garces_Num_2019399\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.pdb
 C:\Users\dinar\OneDrive\Ambiente de Trabalho\Joao_Alberto1_Num_2139621__Dinarte_Azevedo2_Num_2139921__Hilario_Garces_Num_2019399\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.genruntimeconfig.cache
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\bin\Debug\net6.0\Parque de estacionamento.exe
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\bin\Debug\net6.0\Parque de estacionamento.deps.json
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\bin\Debug\net6.0\Parque de estacionamento.runtimeconfig.json
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\bin\Debug\net6.0\Parque de estacionamento.dll
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\bin\Debug\net6.0\ref\Parque de estacionamento.dll
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\bin\Debug\net6.0\Parque de estacionamento.pdb
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.AssemblyInfo.cs
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.dll
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\ref\Parque de estacionamento.dll
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.pdb
+C:\Users\Utilizador\Documents\GitHub\Parque-de-Estacionamento\Parque de estacionamento\obj\Debug\net6.0\Parque de estacionamento.genruntimeconfig.cache
